@@ -37,7 +37,7 @@ async function linkClickHandler(event) {
 }
 
 function renderList(list = []) {
-  if (list.length) {
+  if (list && list.length) {
     return `
     ${list
       .map((i) => `<li><a href='#' class="js-link" data-id="${i.id}">${i.title}</a></li>`)
