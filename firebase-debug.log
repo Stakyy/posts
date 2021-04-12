@@ -1,0 +1,21 @@
+[debug] [2021-04-12T14:08:39.031Z] ----------------------------------------------------------------------
+[debug] [2021-04-12T14:08:39.033Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Stakyy\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-04-12T14:08:39.033Z] CLI Version:   9.9.0
+[debug] [2021-04-12T14:08:39.033Z] Platform:      win32
+[debug] [2021-04-12T14:08:39.033Z] Node Version:  v14.15.1
+[debug] [2021-04-12T14:08:39.034Z] Time:          Mon Apr 12 2021 17:08:39 GMT+0300 (Москва, стандартное время)
+[debug] [2021-04-12T14:08:39.034Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-04-12T14:08:39.039Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-04-12T14:08:39.039Z] > authorizing via signed-in user (armazah3@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Stakyy\Desktop\Posts
+
